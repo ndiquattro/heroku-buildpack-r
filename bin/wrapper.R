@@ -13,6 +13,6 @@ INIT_FILE_CONTENT
 # ======================================================================
 
 # write a file to indicate success
-fileConn<-file("/app/status")
-writeLines(c("1"), fileConn)
-close(fileConn)
+#fileConn<-file("/app/status")
+#writeLines(c("1"), fileConn)
+#close(fileConn)
